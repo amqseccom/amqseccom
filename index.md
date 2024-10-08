@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome.
 
-[Link to another page](./another-page.html).
+[My page is deployed on Github](github.com).
 
-There should be whitespace between paragraphs.
+This is intended as a professional webfolio.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+It is a work in progress. I hope you like it.
 
 # Header 1
 
